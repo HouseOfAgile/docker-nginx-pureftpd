@@ -1,0 +1,8 @@
+nginx
+build-essential
+debhelper libpam-dev libssl-dev libldap-2.4.2
+php5-fpm php5-mysql php-apc php5-imagick php5-imap php5-mcrypt php5-curl php5-cli php5-gd php5-pgsql php5-sqlite php5-common php-pear php5-json php5-intl 
+libmagickcore5
+php5-imagick
+intltool-debian
+dpkg-dev
