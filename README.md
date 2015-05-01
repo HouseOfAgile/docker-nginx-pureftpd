@@ -1,7 +1,7 @@
 
 Docker Pure-ftpd Server + Nginx/php-fpm  basic setup
 ============================
-Simple Docker container integrating pureftpd and a bascic nginx/php-fpm web server based on [phusions ubuntu base-image](https://github.com/phusion/baseimage-docker)
+Simple Docker container integrating pureftpd server and a bascic nginx/php-fpm web server based on [phusions ubuntu base-image](https://github.com/phusion/baseimage-docker)
 
 ## Build Docker JIRA instance
 
