@@ -4,7 +4,7 @@ MAINTAINER Meillaud Jean-Christophe (jc@houseofagile.com)
 
 ENV DEBIAN_FRONTEND noninteractive
 
-RUN add-apt-repository ppa:ondrej/php5
+RUN add-apt-repository ppa:ondrej/php
 
 RUN apt-get -y update                                                                                                                                                                                        
 
