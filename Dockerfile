@@ -28,7 +28,7 @@ RUN echo "<?php phpinfo(); ?>" > /usr/share/nginx/html/hoa_phpinfo.php
 RUN echo "Nothing to see around, cya" > /usr/share/nginx/html/default_index.html
 
 # add script to create ftp user and basic php vhost in nginx
-Nginx Configuration
+# Nginx Configuration
 ADD hoa_ftp_tools /root/
 RUN chmod +x /root/add_ftp_host.sh
 
